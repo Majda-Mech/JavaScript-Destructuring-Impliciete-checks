@@ -9,4 +9,4 @@ Dit project bevat de volgende bestanden:
 ## Script runnen
 Als je de code wil runnen kun je dit doen door het volgende in de terminal in te voeren:
 
-`nodemon destructuring.js`
+`nodemon destructuring.js`# -JavaScript.-Destructuring-en-impliciete-checks
